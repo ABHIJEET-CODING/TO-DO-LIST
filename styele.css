@@ -1,0 +1,48 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+ background-color:grey(255, 0, 170);
+}
+.container{
+    margin: auto;
+    border: 1px solid black;
+    width: 40%;
+    padding: 10px;
+    background-color:rgb(255, 214, 100);
+}
+.container .input{
+    width: 87%;
+    height: 20px;
+}
+.container btn{
+    width: 50px;
+    height: 25px;
+}
+#btnClick{
+    margin-left: 50px;
+    background-color: rgb(51, 255, 0);
+font-family: 'Times New Roman', Times, serif;
+text-decoration-style: bold;
+}
+.container ul{
+    list-style: none;
+    padding: 0px;
+}
+.container li{
+    color:blue;
+    font-weight: lighter;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container li a{
+    float: right;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container #error{
+    color:red;
+    font-weight: lighter;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
